@@ -1,0 +1,13 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:\\esp_idf\\v5.2.2\\esp-idf",
+  "idf.pythonInstallPath": "c:\\esp-idf\\.idf\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.portWin": "COM11",
+  "idf.toolsPathWin": "c:\\esp-idf\\.idf",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  }
+}
